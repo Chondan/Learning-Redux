@@ -1,5 +1,7 @@
 # REDUX
 
+Go to application: https://chondan.github.io/Learning-Redux
+
 ## ADDITIONALE RESOURCES
 - jest.js (for testing)
 - expect@latest
