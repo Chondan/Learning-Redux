@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Learning-Redux/static/css/main.eb794fda.chunk.css",
+    "main.js": "/Learning-Redux/static/js/main.04bdc575.chunk.js",
+    "main.js.map": "/Learning-Redux/static/js/main.04bdc575.chunk.js.map",
+    "runtime-main.js": "/Learning-Redux/static/js/runtime-main.9f8849a2.js",
+    "runtime-main.js.map": "/Learning-Redux/static/js/runtime-main.9f8849a2.js.map",
+    "static/js/2.f1695b9c.chunk.js": "/Learning-Redux/static/js/2.f1695b9c.chunk.js",
+    "static/js/2.f1695b9c.chunk.js.map": "/Learning-Redux/static/js/2.f1695b9c.chunk.js.map",
+    "index.html": "/Learning-Redux/index.html",
+    "precache-manifest.62409ea0e6435bf445fbc68663f3db06.js": "/Learning-Redux/precache-manifest.62409ea0e6435bf445fbc68663f3db06.js",
+    "service-worker.js": "/Learning-Redux/service-worker.js",
+    "static/css/main.eb794fda.chunk.css.map": "/Learning-Redux/static/css/main.eb794fda.chunk.css.map",
+    "static/js/2.f1695b9c.chunk.js.LICENSE.txt": "/Learning-Redux/static/js/2.f1695b9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8849a2.js",
+    "static/js/2.f1695b9c.chunk.js",
+    "static/css/main.eb794fda.chunk.css",
+    "static/js/main.04bdc575.chunk.js"
+  ]
+}
